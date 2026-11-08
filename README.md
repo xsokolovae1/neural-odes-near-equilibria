@@ -303,7 +303,7 @@ ODES/
 ## Running the code
 
 ```bash
-git clone https://github.com/xsokolovae1/ODES.git
+git clone https://github.com/xsokolovae1/neural-odes-near-equilibria.git
 cd ODES
 poetry install
 poetry run jupyter lab
